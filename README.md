@@ -38,6 +38,7 @@ Email Me 👉 ✉️ **kunalkumarofficial31@gmail.com** for collaboration, freel
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Kunalkumar31&limit=5&theme=dark&combine_all_yearly_contributions=true)
