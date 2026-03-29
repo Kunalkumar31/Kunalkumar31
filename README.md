@@ -32,17 +32,21 @@ Email Me 👉 ✉️ **kunalkumarofficial31@gmail.com** for collaboration, freel
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ## 🎖 Fun Badges
 
-![Profile last updated](https://img.shields.io/github/last-commit/Kunalkumar31/Kunalkumar31)
-![Profile views](https://img.shields.io/badge/Profile-Active-brightgreen)
-![Focus](https://img.shields.io/badge/Focus-FullStack-blue)
-![Age](https://img.shields.io/badge/Age-Developer-orange)
-
+![Last Commit](https://img.shields.io/github/last-commit/Kunalkumar31/Kunalkumar31?style=for-the-badge&color=blue)
+![Profile Status](https://img.shields.io/badge/Profile-Active-success?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20Development-0A66C2?style=for-the-badge)
+![Engineer](https://img.shields.io/badge/Software%20Engineer-MERN%20%7C%20Next.js%20Developer-6A5ACD?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-orange?style=for-the-badge)
+![Code](https://img.shields.io/badge/Code-JavaScript%20Enthusiast-yellow?style=for-the-badge)
+![Learning](https://img.shields.io/badge/Learning-Always%20Growing-brightgreen?style=for-the-badge)
 ## ❤️ Support My Work
-If you like my projects, give them a ⭐ on GitHub!
+
+✨ Enjoying my projects? Show your support by giving them a ⭐ on GitHub!  
+It helps me grow and continue building impactful solutions.
 
 ---
 
-⭐️ From [Kunalkumar31](https://github.com/Kunalkumar31) | Happy Coding 🚀
-
-
+🚀 Crafted with passion by [Kunal Kumar](https://github.com/Kunalkumar31)  
+💡 Let's build something amazing together!  
+💻 Happy Coding!
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
