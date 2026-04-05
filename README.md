@@ -13,7 +13,9 @@ Email Me 👉 ✉️ **kunalkumarofficial31@gmail.com** for collaboration, freel
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kunalkumar31&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+![trophy](https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=Kunalkumar31&theme=onestar)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kunalkumar31/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kunalkumarofficial31@gmail.com) 
 
