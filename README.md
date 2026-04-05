@@ -1,15 +1,68 @@
+<h1 align="center">Hi 👋, I'm Kunal Kumar</h1>
 
-# 💫 Hi 👋, I'm Kunal Kumar
-**👨‍💻 Full Stack Developer | ⚡ AI Enthusiast | Turning ideas into real-time, full-stack solutions – straight out of India!**
+<h3 align="center">
+🚀 Software Engineer | Full Stack Developer (MERN & Next.js) <br/>
+⚡ Building Scalable, Production-Ready Web Applications
+</h3>
 
-Email Me 👉 ✉️ **kunalkumarofficial31@gmail.com** for collaboration, freelance projects, or anything tech-related. Always happy to connect! 😊
-- 🔭 **I’m currently working on:** EfficoBoard.
-- 🌱 **I’m currently learning:** MERN and AI.
-- 👯 **I’m looking to collaborate on:** Scalable full-stack applications, real-time data pipelines, or open-source tools using the MERN stack.
-- 💬 **Ask me about:**  Full Stack Development, MERN Stack, API Development, and Tech Collaboration.
-- 📫 **How to reach me:** kunalkumarofficial31@gmail.com
-- 😄 **Pronouns:** Kunal.
-- ⚡ **Fun fact:** I love tech, and tech loves me back – we’re in a serious relationship. 💻❤️
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Specialist;Next.js+Developer;Backend+%26+API+Expert;Open+to+Work🚀" />
+</p>
+
+---
+
+💡 I design and build **end-to-end full-stack applications** — from responsive frontend UI to scalable backend systems, APIs, and cloud deployment.
+
+🚀 Passionate about solving real-world problems through **clean architecture, performance optimization, and scalable system design**.
+
+---
+
+🌐 **Portfolio:** https://kunalportfolio31.vercel.app/  
+📫 **Email:** kunalkumarofficial31@gmail.com  
+💼 **Open to:** Full-Time Roles • Freelance Projects • Remote • Hybrid • Onsite Opportunities  
+
+🤝 **Let’s build something impactful together!**
+
+### 🔭 Current Work
+
+- 🚀 Building **EfficoBoard** – a production-grade full-stack platform focused on scalability, performance, and real-time user experience  
+
+### 🌱 Currently Learning
+
+- ⚡ Scaling MERN applications for production (performance & architecture)  
+- 🤖 Integrating AI features into real-world web applications  
+- 🚀 System design, backend optimization & clean architecture patterns  
+---
+
+### 🧠 Full Stack Expertise
+
+- 🎨 **Frontend:** Crafting responsive & dynamic UIs with React.js, Next.js & Tailwind CSS  
+- ⚙️ **Backend:** Building scalable & maintainable backend systems using Node.js & Express.js  
+- 🗄️ **Database:** Optimizing data storage & queries with MongoDB & MySQL  
+- 🔗 **APIs:** Designing RESTful APIs with authentication, validation & performance optimization  
+- 🚀 **Deployment:** Implementing Docker, CI/CD pipelines & cloud-based deployments  
+
+---
+
+### 👯 Open to Collaborate On
+
+- 🔹 Building **production-ready full-stack applications**  
+- 🔹 Developing **real-time systems & scalable backend services**  
+- 🔹 Working on **startup ideas, SaaS platforms & MVPs**  
+- 🔹 Contributing to **open source & impactful developer tools**  
+---
+
+### 💬 Ask Me About
+
+- 💻 Building complete full-stack applications from scratch  
+- ⚙️ Designing scalable MERN stack architectures  
+- 🔗 Backend systems, APIs, authentication & performance tuning  
+- 🚀 Real-time systems (WebSockets, live updates, event-driven apps)  
+- 🤝 Collaboration on startups, SaaS & production-grade projects  
+---
+
+### ⚡ Fun Fact
+💻 I love tech, and tech loves me back – we’re in a serious relationship ❤️
 
 
 ## 🏆 GitHub Trophies
