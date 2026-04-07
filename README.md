@@ -87,7 +87,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ## 🎖 Fun Badges
 
-![Last Commit](https://img.shields.io/github/last-commit/Kunalkumar31/Kunalkumar31?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/Kunalkumar31/Kunalkumar31?style=for-the-badge&cacheSeconds=0)
 ![Profile Status](https://img.shields.io/badge/Profile-Active-success?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20Development-0A66C2?style=for-the-badge)
 ![Engineer](https://img.shields.io/badge/Software%20Engineer-MERN%20%7C%20Next.js%20Developer-6A5ACD?style=for-the-badge)
