@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kunal Kumar</h1>
 
 <h3 align="center">
-🚀 Software Engineer | Full Stack Developer (MERN & Next.js) <br/>
-⚡ Building Scalable, Production-Ready Web Applications
+🧑‍💻 Software Engineer | Full Stack Developer (MERN & Next.js) | Problem Solver  <br/>
+⚙️ Building Scalable, Production-Ready Web Applications
 </h3>
 
 <p align="center">
