@@ -67,7 +67,7 @@
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=Kunalkumar31&theme=onestar)
+![trophy](https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=Kunalkumar31&theme=onestar&nocache=true)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kunalkumar31/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kunalkumarofficial31@gmail.com) 
