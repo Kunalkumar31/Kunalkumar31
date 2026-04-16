@@ -65,9 +65,11 @@
 💻 I love tech, and tech loves me back – we’re in a serious relationship ❤️
 
 
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=Kunalkumar31&theme=onestar&nocache=true)
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kunalkumar31&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Kunalkumar31&theme=tokyonight" />
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kunalkumar31/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kunalkumarofficial31@gmail.com) 
